@@ -5,6 +5,8 @@ services:
     image: postgres:13
     environment:
       - POSTGRES_DB=sorteo
+      - POSTGRES_USER=abril
+      - POSTGRES_PASSWORD=admin123
     ports:
       - 5432:5432
     volumes:

@@ -1,0 +1,19 @@
+{
+  "name": "sorteo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abril-cantera/Sorteo.git"
+  },
+  "author": "Abril Gonzalez <abril.gonzalez.cantera@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abril-cantera/Sorteo/issues"
+  },
+  "homepage": "https://github.com/abril-cantera/Sorteo#readme"
+}
